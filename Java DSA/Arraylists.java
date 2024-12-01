@@ -5,7 +5,7 @@ import java.util.List;
 
 class Arraylists{
     public static void main(String[] args) {
-        System.out.println("hello");
+        System.out.println("hello world");
 
         List <Integer> alist1 = new ArrayList<>();
         alist1.add(1);
